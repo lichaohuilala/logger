@@ -6,6 +6,10 @@
 
 设计模式，设计原则 ，处理的很好 ，真的大佬 ，佩服了。
 
+具体查看 https://github.com/lichaohuilala/logger 地址 
+
+
+
 
 
 ### 设计模式 
@@ -27,6 +31,14 @@
 1  ThreadLocal 的使用  
 
 2  HandlerThread 的使用  
+
+
+
+### 可以借用的实现功能 
+
+1 打印定位到代码行数 
+
+
 
 
 
