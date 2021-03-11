@@ -78,6 +78,9 @@ public final class Logger {
   private Logger() {
     //no instance
   }
+  public  static  void  init(){
+
+  }
 
   public static void printer(@NonNull Printer printer) {
     Logger.printer = checkNotNull(printer);
